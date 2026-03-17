@@ -60,8 +60,26 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+
+<img width="1575" height="953" alt="image" src="https://github.com/user-attachments/assets/95b17718-7c65-431f-a623-14600f367736" />
+
+<img width="1883" height="956" alt="image" src="https://github.com/user-attachments/assets/4a05687f-4b7b-4671-a76e-a4c6215e705f" />
+
+
+<img width="1425" height="949" alt="image" src="https://github.com/user-attachments/assets/51af6ef1-b332-4633-a396-3349716de42e" />
+
+
+<img width="1079" height="764" alt="image" src="https://github.com/user-attachments/assets/975c58b8-c5c9-4de5-bd2e-c6bc47f52efc" />
+
+
+<img width="904" height="785" alt="image" src="https://github.com/user-attachments/assets/5705e96c-cdfb-43e5-8df2-e84b13434c60" />
+
+
+
+
+
+### Name: MOHAMMED HANEEF M
+### Register Number:212225040249
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
